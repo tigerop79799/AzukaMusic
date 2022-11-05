@@ -29,7 +29,7 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
                 text="📣 Updates Channel", url="https://t.me/AkenoOfficial"
             ),
             InlineKeyboardButton(
-                text="💬 Support Group", url="https://t.me/Strangers_Ki_Mehfil"
+                text="💬 Support Group", url="https://t.me/+XWZkfXghHT5jNThl"
             ),                       
         ],
     ]
@@ -51,7 +51,7 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
                 text="📣 Updates Channel", url="https://t.me/AkenoOfficial"
             ),
             InlineKeyboardButton(
-                text="💬 Support Group", url="https://t.me/Strangers_Ki_Mehfil"
+                text="💬 Support Group", url="https://t.me/+XWZkfXghHT5jNThl"
             ),                       
         ],
     ]
